@@ -19,7 +19,7 @@ This document uses terminology from the Zcash Protocol Specification and ZIP 32 
 
 `diversifier` / `diversified address`: A change in receiver encoding that allows generating many addresses from the same Sapling spending key (rather than generating new keys).
 
-`legacy derivation`: Any historical wallet key generation/derivation behavior that differs from current best practice (e.g., BIP 39 seed phrases [^BIP-0039] + ZIP 32 HD derivation, and diversified addresses).
+`legacy derivation`: Any historical wallet key generation/derivation behavior that differs from current best practice (i.e., BIP 39 seed phrases [^BIP-0039] + ZIP 32 HD derivation, and diversified addresses).
 
 # Abstract
 
